@@ -1,0 +1,11 @@
+---
+title: Siphonophores.org
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: siph-preview.png
+alt: image-alt
+linkout: http://siphonophores.org
+
+description: Our site about siphonophores.
+---
