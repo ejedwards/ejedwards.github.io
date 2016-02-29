@@ -30,13 +30,14 @@ people:
 - name: Abby Moore
   pic: abby_s
   position: Postdoc
-  description: I am interested in how plants adapt to their environments and in how and why they switch between environments and evolve new adaptive strategies. What causes plants to switch from avoiding a certain habitat to becoming a specialist in that habitat? Why are some groups full of specialists in different habitats, while others are full of generalists or specialists in a single habitat? What causes certain adaptations to evolve multiple times in some groups, but not in their relatives? What were the biogeographic and ecological contexts under which these switches occurred? I am trying to answer these questions by examining patterns of DNA sequence variation within and among species. I have examined edaphic specialization in European Minuartia and ecotypic diversification in American Grindelia. I am currently looking at the evolution of photosynthetic systems in the Portulacineae, with a focus on Anacampserotaceae.
+  description: phylogenomics; ecological adaptation; evolution of succulence and CAM in Anacampserotaceae. <a href="/reprints/Moore_cv.pdf">CV</a>
+
  
       
 - name: David Chatelet
   pic: david_s
   position: Postdoc
-  description: My general interests reside in developing a better understanding of the relation between structure and function associated with water movement in plants in different environments. I am particularly interested in the hydraulics of roots and leaves, the evolution and functional consequences of diversity in leaf designs, the plasticity and adaptive variation in functional traits associated with water transport across environmental gradients, and the water relations of flowers and fruits. My current research is focused on exploring the evolution of leaf form and function within <i>Viburnum</i>, and the relations between leaf and stem traits and environmental variables.
+  description: plant structure and function; evolution and functional consequences of diversity in leaf designs. <a href="reprints/CV_Sept2013_Chatelet.pdf">CV</a>
   social: 
     - title: google
       url: https://scholar.google.com/citations?user=Hy3Pfe4AAAAJ&hl=en&authuser=1
@@ -44,35 +45,36 @@ people:
 - name: Laura Garrison
   pic: laura_s
   position: Graduate Student
-  description: My interests include plant systematics, desert floras, and the effects of rapid environmental change on ecosystems. After working on the systematics of desert <i>Phacelia</i> species for my master's thesis, I am looking forward to studying the ways that phylogenetic information can help predict plant responses to climate change. I will be investigating using plant functional traits and biogeochemistry to bridge the gap between phylogenetics and studies of global climate change.
+  description: plant systematics, desert floras, plant phenology and the effects of rapid environmental change on ecosystems. <a href="/reprints/LauraGarrisonCV.pdf">CV</a>
  
       
 - name: Lilly Hancock
   pic: lilly_s
   position: Graduate Student
-  description: I am interested in the evolution and convergence of complex character traits in plants (ranging from red algae to angiosperms). How does natural selection gradually modify genes and phenotypes to assemble new and fully-integrated suites of characters? What are the genetic and environmental enablers underlying the evolution of these complex character traits? How do we reconstruct these serial modifications or "steps" along an evolutionary trajectory? For my doctorate research I am investigating the evolution of Crassulacean Acid Metabolism (CAM) photosynthesis, a complex character trait that improves the efficiency of C3 photosynthesis under conditions of drought and/or low atmospheric CO2. The Montiaceae, a family within the Portulacineae, provide a unique phylogenetic perspective into CAM photosynthesis evolution as closely related species within the lineage represent the C3 to CAM photosynthetic spectrum. Using an isotopic, anatomical, and genetic approach, I am aim to fully characterize photosynthesis type across individual species within the Montiaceae in efforts to unravel the evolutionary trajectory of CAM photosynthesis. 
+  description: evolution of CAM photosynthesis; Australian Montiaceae. <a href="reprints/HancockCVAug2012.pdf">CV</a>
   social:
    - title: twitter
      url: https://twitter.com/lillypine28
-   - title: google
-     url: https://scholar.google.com/citations?user=mlC_ztAAAAAJ&hl=en&authuser=1
+ 
+- name: Morgan Moeglein
+  pic: Morgan1
+  position: Graduate Student
+  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. <a href="reprints/Moeglein_CV_2014.pdf">CV</a>
+ 
+- name: Lucy
+  pic: lucy_moss
+  position: Research Assistant
+  description: botanical illustration; mosses 
+ 
+- name: Henry
+  pic: henry1_s
+  position: Research Assistant
+  description: flora of Mt. Kinabalu; bananas 
+ 
 
 
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-    - title: twitter
-      url: https://twitter.com/caseywdunn
-    - title: google
-      url: http://scholar.google.com/citations?user=k2n_5QoAAAAJ&hl=en
-    - title: bitbucket 
-      url: https://bitbucket.org/caseywdunn
-    - title: github
-      url: https://github.com/caseywdunn
-    - title: vimeo-square
-      url: https://vimeo.com/user1747626
-    - title: flickr
-      url: https://www.flickr.com/photos/12455333@N00/
+
 
 # Postal address (add as many lines as necessary)
 address:
