@@ -27,25 +27,23 @@ people:
     - title: github
       url: https://github.com/erikajedwards
    
-- name: Abby Moore
-  pic: abby_s
+- name: Eric Goolsby
+  pic: goolsby
   position: Postdoc
-  description: phylogenomics; ecological adaptation; evolution of succulence and CAM in Anacampserotaceae. <a href="/reprints/Moore_cv.pdf">CV</a>
-
- 
-      
-- name: David Chatelet
-  pic: david_s
-  position: Postdoc
-  description: plant structure and function; evolution and functional consequences of diversity in leaf designs. <a href="reprints/CV_Sept2013_Chatelet.pdf">CV</a>
-  social: 
+  description: phylogenetic comparative methods, phylogenomics, plant ecophysiology
+    social:
+    - title: twitter
+      url: https://twitter.com/evolgoolsby
     - title: google
-      url: https://scholar.google.com/citations?user=Hy3Pfe4AAAAJ&hl=en&authuser=1
+      url: https://scholar.google.com/citations?user=bbEJDSQAAAAJ
+    - title: github
+      url: https://github.com/ericgoolsby
+
       
 - name: Laura Garrison
-  pic: laura_s
+  pic: LMG
   position: Graduate Student
-  description: plant systematics, desert floras, plant phenology and the effects of rapid environmental change on ecosystems. <a href="/reprints/LauraGarrisonCV.pdf">CV</a>
+  description: phenology, climate change, Viburnum, plant diversity and taxonomy. <a href="/reprints/LauraGarrisonCV.pdf">CV</a>
  
       
 - name: Lilly Hancock
@@ -60,6 +58,18 @@ people:
   pic: Morgan1
   position: Graduate Student
   description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. <a href="reprints/Moeglein_CV_2014.pdf">CV</a>
+ 
+- name: Elissa Johnson
+  pic: Elissa_square
+  position:Post-bac research associate
+  description: Morphology, diversity, evolution, and natural history of all living things. I enjoy histology, imaging, and scientific illustration.
+  social:
+  url:elissajohnson.com
+ 
+- name: Haley Carter
+  pic: haley
+  position: Undergrad
+  description: phylogenetics, Viburnum, plant chemistry
  
 - name: Lucy
   pic: lucy_moss
