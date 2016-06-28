@@ -38,14 +38,12 @@ people:
       url: https://scholar.google.com/citations?user=bbEJDSQAAAAJ
     - title: github
       url: https://github.com/ericgoolsby
-
-      
+   
 - name: Laura Garrison
   pic: LMG
   position: Graduate Student
   description: phenology, climate change, Viburnum, plant diversity and taxonomy.
- 
-      
+   
 - name: Lilly Hancock
   pic: lilly_s
   position: Graduate Student
@@ -53,29 +51,29 @@ people:
   social:
    - title: twitter
      url: https://twitter.com/lillypine28
- 
+   
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
   description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. <a href="reprints/Moeglein_CV_2014.pdf">CV</a>
- 
+   
 - name: Elissa Johnson
   pic: Elissa_square
   position: Post-bac research associate
   description: Morphology, diversity, evolution, and natural history of all living things. I enjoy histology, imaging, and scientific illustration.
   social:
   url: elissajohnson.com
- 
+   
 - name: Haley Carter
   pic: haley
   position: Undergrad
   description: phylogenetics, Viburnum, plant chemistry
- 
+   
 - name: Lucy
   pic: lucy_moss
   position: Research Assistant
   description: botanical illustration; mosses 
- 
+   
 - name: Henry
   pic: henry1_s
   position: Research Assistant
