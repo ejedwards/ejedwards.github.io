@@ -54,7 +54,7 @@ people:
 - name: Lilly Hancock
   pic: lilly_s
   position: Graduate Student
-  description: evolution of CAM photosynthesis; Australian Montiaceae. My CV is available <a href="reprints/HancockCVAug2012.pdf">here</a>
+  description: evolution of CAM photosynthesis; Australian Montiaceae. My CV is available <a href="reprints/HancockCVAug2012.pdf">here.</a>
   social:
    - title: twitter
      url: https://twitter.com/lillypine28
@@ -62,7 +62,7 @@ people:
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
-  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. My CV is available <a href="reprints/Moeglein_CV_2014.pdf">here</a>
+  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. My CV is available <a href="reprints/Moeglein_CV_2014.pdf">here.</a>
    
 - name: Elissa Johnson
   pic: Elissa_square
