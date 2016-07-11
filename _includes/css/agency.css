@@ -331,11 +331,12 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
+    margin-top: 25px;
     margin-bottom: 25px;
-    text-transform: none;
+    text-transform: uppercase;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
     font-weight: 400;
 }
 
