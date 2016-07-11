@@ -16,7 +16,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Erika Edwards
-  pic: e
+  pic: e_s
   position: Principal Investigator
   description: My CV is available <a href="/reprints/edwardsCV_2016.pdf">here</a>.
   social:
@@ -26,6 +26,12 @@ people:
       url: https://scholar.google.com/citations?user=mlC_ztAAAAAJ&hl=en&authuser=1
     - title: github
       url: https://github.com/erikajedwards
+   
+- name: Zachary Lewis
+  pic: lewis
+  position: Postdoc
+  description: evolutionary morphology and development; organogenesis
+  social:
    
 - name: Eric Goolsby
   pic: goolsby
@@ -38,12 +44,6 @@ people:
       url: https://scholar.google.com/citations?user=bbEJDSQAAAAJ
     - title: github
       url: https://github.com/ericgoolsby
-   
-- name: Zachary Lewis
-  pic: lewis
-  position: Postdoc
-  description: evolutionary morphology and development; organogenesis
-  social:
    
    - name: Laura Garrison
   pic: LMG
