@@ -48,7 +48,7 @@ people:
 - name: Laura Garrison
   pic: LMG
   position: Graduate Student
-  description: phenology, climate change, Viburnum, plant diversity and taxonomy. <br/><br/><br/><br/><br/>
+  description: phenology, climate change, Viburnum, plant diversity
   social:
    
 - name: Lilly Hancock
@@ -62,12 +62,12 @@ people:
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
-  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. <a href="reprints/Moeglein_CV_2014.pdf">CV</a> <br/><br/><br/><br/><br/>
+  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. My CV is available <a href="reprints/Moeglein_CV_2014.pdf">here</a>
    
 - name: Elissa Johnson
   pic: Elissa_square
   position: Post-bac research associate
-  description: Morphology, diversity, evolution, and natural history of all living things. I enjoy histology, imaging, and scientific illustration.
+  description: Morphology, diversity, evolution, and natural history of all living things. Histology, imaging, scientific illustration.
   social:
   url: elissajohnson.com
    
