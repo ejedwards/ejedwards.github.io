@@ -39,7 +39,19 @@ people:
     - title: github
       url: https://github.com/ericgoolsby
    
-- name: Laura Garrison
+- name: Zachary Lewis
+  pic: lewis
+  position: Postdoc
+  description: evolutionary morphology and development; organogenesis
+  social:
+    - title: twitter
+      url: https://twitter.com/evolgoolsby
+    - title: google
+      url: https://scholar.google.com/citations?user=bbEJDSQAAAAJ
+    - title: github
+      url: https://github.com/ericgoolsby
+   
+   - name: Laura Garrison
   pic: LMG
   position: Graduate Student
   description: phenology, climate change, Viburnum, plant diversity and taxonomy.
