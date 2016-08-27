@@ -484,7 +484,7 @@ section h3.section-subheading {
 }
 
 .timeline>li .timeline-image {
-    z-index: 100;
+    z-index: 200;
     position: absolute;
     left: 0;
     width: 200px;
