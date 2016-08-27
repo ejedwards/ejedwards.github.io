@@ -25,7 +25,7 @@ people:
     - title: google
       url: https://scholar.google.com/citations?user=mlC_ztAAAAAJ&hl=en&authuser=1
     - title: github
-      url: https://github.com/erikajedwards
+      url: https://github.com/ejedwards
    
 - name: Zachary Lewis
   pic: lewis
@@ -58,13 +58,17 @@ people:
   position: Graduate Student
   description: evolution of CAM photosynthesis; Australian Montiaceae. My CV is available <a href="reprints/HancockCVAug2012.pdf">here.</a>
   social:
-   - title: twitter
-     url: https://twitter.com/lillypine28
    
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
   description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. My CV is available <a href="reprints/Moeglein_CV_2014.pdf">here.</a>
+  social:
+
+- name: Elissa Johnson
+  pic: Elissa_square
+  position: Post-bac research associate
+  description: Morphology, diversity, evolution, and natural history of all living things. Histology, imaging, scientific illustration.
   social:
 
 - name: Haley Carter
@@ -79,11 +83,7 @@ people:
   description: biogeography, ecology, hiking
   social:
 
-- name: Elissa Johnson
-  pic: Elissa_square
-  position: Post-bac research associate
-  description: Morphology, diversity, evolution, and natural history of all living things. Histology, imaging, scientific illustration.
-  social:
+
    
 
 - name: Lucy
