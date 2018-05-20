@@ -57,11 +57,11 @@ people:
   position: Graduate Student
   description: evolution of CAM photosynthesis; comparative phylogenetics, Portullugo.
   social:
-     - title: github
+    - title: github
       url: https://github.com/isgilman
    
 - name: Anri Chomentowska
-  pic: anri.jpg
+  pic: anri
   position: Graduate Student
   description: phylogenetics; evolutionary history of reproductive strategies; adaptation
   social:
