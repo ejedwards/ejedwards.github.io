@@ -52,6 +52,12 @@ people:
   description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. 
   social:
    
+- name: Anri Chomentowska
+  pic: anri
+  position: Graduate Student
+  description: phylogenetics; evolutionary history of reproductive strategies; adaptation
+  social:
+
 - name: Ian Gilman
   pic: ian
   position: Graduate Student
@@ -60,11 +66,6 @@ people:
     - title: github
       url: https://github.com/isgilman
    
-- name: Anri Chomentowska
-  pic: anri
-  position: Graduate Student
-  description: phylogenetics; evolutionary history of reproductive strategies; adaptation
-  social:
 
 - name: Joel Abraham
   pic: joel
