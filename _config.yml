@@ -3,8 +3,8 @@ baseurl: ''
 
 # Site settings
 title: The Edwards Lab
-email: erika_edwards@brown.edu
-description: "Erika Edwards's laboratory in the Department of Ecology and Evolutionary Biology at Brown University."
+email: erika.edwards@yale.edu
+description: "Erika Edwards's laboratory in the Department of Ecology and Evolutionary Biology at Yale University."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -18,7 +18,7 @@ people:
 - name: Erika Edwards
   pic: e_s
   position: Principal Investigator
-  description: My CV is available <a href="/reprints/EdwardsCV_august2017.pdf">here</a>.
+  description: My CV is available <a href="/reprints/edwardsCVmay2018.pdf">here</a>.
   social:
     - title: twitter
       url: https://twitter.com/erikaedw
@@ -27,64 +27,48 @@ people:
     - title: github
       url: https://github.com/ejedwards
    
-- name: Zachary Lewis
-  pic: lewis
-  position: Postdoc
-  description: evolutionary morphology and development; organogenesis
+- name: Karolina Heyduk
+  pic: karolina
+  position: Donnelley Postdoc Fellow
+  description: evolutionary physiology and genomics of CAM
   social:
+    - title: twitter
+      url: https://twitter.com/kheyduk
     - title: google
-      url: https://scholar.google.com/citations?user=uHN9MicAAAAJ&hl=en&authuser=1
+      url: https://scholar.google.com/citations?user=z3n2hIsAAAAJ&hl=en
    
-- name: Eric Goolsby
-  pic: goolsby
+- name: Jose Moreno-Villena
+  pic: jose
   position: Postdoc
   description: phylogenetic comparative methods, phylogenomics, plant ecophysiology
   social:
-    - title: twitter
-      url: https://twitter.com/evolgoolsby
     - title: google
-      url: https://scholar.google.com/citations?user=bbEJDSQAAAAJ
-    - title: github
-      url: https://github.com/ericgoolsby
-   
-- name: Laura Garrison
-  pic: LMG
-  position: Graduate Student
-  description: phenology, climate change, Viburnum, plant diversity. My CV is available <a href="reprints/LauraGarrisonCV.pdf">here.</a>
-  social:
-   
-- name: Lilly Hancock
-  pic: lilly_s
-  position: Graduate Student
-  description: evolution of CAM photosynthesis; Australian Montiaceae. My CV is available <a href="reprints/HancockCVAug2012.pdf">here.</a>
-  social:
+      url: https://scholar.google.com/citations?user=EpuJnewAAAAJ&hl=en
+    
    
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
-  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. My CV is available <a href="reprints/Moeglein_CV_2014.pdf">here.</a>
+  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. 
   social:
-
-- name: Elissa Johnson
-  pic: Elissa_square
-  position: Post-bac research associate
-  description: Morphology, diversity, evolution, and natural history of all living things. Histology, imaging, scientific illustration.
-  social:
-
-- name: Haley Carter
-  pic: haley
-  position: Undergrad
-  description: phylogenetics, Viburnum, plant chemistry
-  social:
-
-- name: Andrew Pisaturo
-  pic: andrew
-  position: Undergrad
-  description: biogeography, ecology, hiking
-  social:
-
-
    
+- name: Ian Gilman
+  pic: ian
+  position: Graduate Student
+  description: evolution of CAM photosynthesis; comparative phylogenetics, Portullugo.
+  social:
+   
+- name: Anri Chomentowska
+  pic: Anri
+  position: Graduate Student
+  description: phylogenetics; evolutionary history of reproductive strategies; adaptation
+  social:
+
+- name: Joel Abraham
+  pic: Joel
+  position: Post-bac research associate
+  description: 
+  social:
 
 - name: Lucy
   pic: lucy_moss
@@ -105,10 +89,10 @@ people:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Box GW
-  - line: 80 Waterman St
-  - line: Brown University
-  - line: Providence, RI 02906
+  - line: PO Box 208105
+  - line: 165 Prospect St
+  - line: Yale University
+  - line: New Haven, CT 06520
 
 # Build settings
 markdown: kramdown
