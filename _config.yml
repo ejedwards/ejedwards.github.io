@@ -45,17 +45,10 @@ people:
     - title: google
       url: https://scholar.google.com/citations?user=EpuJnewAAAAJ&hl=en
     
-   
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
   description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. 
-  social:
-   
-- name: Anri Chomentowska
-  pic: anri
-  position: Graduate Student
-  description: phylogenetics; evolutionary history of reproductive strategies; adaptation
   social:
 
 - name: Ian Gilman
@@ -66,6 +59,11 @@ people:
     - title: github
       url: https://github.com/isgilman
    
+- name: Anri Chomentowska
+  pic: anri
+  position: Graduate Student
+  description: phylogenetics; evolutionary history of reproductive strategies; adaptation
+  social:
 
 - name: Joel Abraham
   pic: joel
