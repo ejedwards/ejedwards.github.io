@@ -18,7 +18,7 @@ people:
 - name: Erika Edwards
   pic: e_s
   position: Principal Investigator
-  description: My CV is available <a href="/reprints/edwardsCVmay2018.pdf">here</a>.
+  description: My CV is available <a href="/reprints/edwardsCVaug2020.pdf">here</a>.
   social:
     - title: twitter
       url: https://twitter.com/erikaedw
@@ -27,15 +27,6 @@ people:
     - title: github
       url: https://github.com/ejedwards
    
-- name: Karolina Heyduk
-  pic: karolina
-  position: Donnelley Postdoc Fellow
-  description: evolutionary physiology and genomics of CAM
-  social:
-    - title: twitter
-      url: https://twitter.com/kheyduk
-    - title: google
-      url: https://scholar.google.com/citations?user=z3n2hIsAAAAJ&hl=en
    
 - name: Jose Moreno-Villena
   pic: jose
@@ -44,7 +35,22 @@ people:
   social:
     - title: google
       url: https://scholar.google.com/citations?user=TmTdiZQAAAAJ&hl=en
+
+- name: Haoran Zhou
+  pic: haoran
+  position: NOAA Climate and Global Change Postdoc Fellow
+  description: evolution of C3,C4,CAM photosynthesis; physiological and anatomical modeling
+  social:
+    - title: google
+      url: https://scholar.google.com/citations?hl=en&authuser=1&user=6ch-jEIAAAAJ
     
+- name: Anthony Baniaga
+  pic: anthony
+  position: Donnelly Postdoc Fellow
+  description: evolution of polyploidy; 
+  social:
+
+
 - name: Morgan Moeglein
   pic: Morgan1
   position: Graduate Student
@@ -54,7 +60,7 @@ people:
 - name: Ian Gilman
   pic: ian
   position: Graduate Student
-  description: evolution of CAM photosynthesis; comparative phylogenetics, Portullugo.
+  description: evolution of CAM photosynthesis; comparative phylogenetics; Portullugo.
   social:
     - title: github
       url: https://github.com/isgilman
@@ -65,11 +71,27 @@ people:
   description: phylogenetics; evolutionary history of reproductive strategies; adaptation
   social:
 
-- name: Joel Abraham
-  pic: joel
-  position: Post-bac research associate
+- name: Josh Randall
+  pic: josh
+  position: Graduate Student
+  description: ecophysiology; evolution of plant tissues and traits; urban adaptation
+  social:
+
+- name: Kirstin Dion
+  pic: kirstin
+  position: Lab manager and research associate
   description: 
   social:
+
+- name: Nora Heaphy
+  pic: nora
+  position: undergrad
+  description: climate niche evolution; species distribution models; Portullugo
+  social:
+    - title: twitter
+      url: https://twitter.com/noraceae
+    - title: github
+      url: https://github.com/noraheaphy
 
 - name: Lucy
   pic: lucy_moss
@@ -82,8 +104,6 @@ people:
   position: Research Assistant
   description: flora of Mt. Kinabalu; bananas 
   social:
-
-
 
 
 
