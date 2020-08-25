@@ -47,7 +47,7 @@ people:
 - name: Anthony Baniaga
   pic: anthony
   position: Donnelly Postdoc Fellow
-  description: evolution of polyploidy; 
+  description: polyploid ecophysiology; hybridization; plant genomics; Viburnum; Selaginellaceae 
   social:
 
 
@@ -70,6 +70,9 @@ people:
   position: Graduate Student
   description: phylogenetics; evolutionary history of reproductive strategies; adaptation
   social:
+    - title: twitter
+      url: https://twitter.com/AChomentowska
+
 
 - name: Josh Randall
   pic: josh
