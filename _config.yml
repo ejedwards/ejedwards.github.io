@@ -68,11 +68,10 @@ people:
 - name: Anri Chomentowska
   pic: anri
   position: Graduate Student
-  description: phylogenetics; evolutionary history of reproductive strategies; adaptation
+  description: Montiaceae systematics; evolution of reproductive and life history strategies
   social:
     - title: twitter
       url: https://twitter.com/AChomentowska
-
 
 - name: Josh Randall
   pic: josh
@@ -82,8 +81,9 @@ people:
 
 - name: Kirstin Dion
   pic: kirstin
-  position: Lab manager and research associate
-  description: 
+  position: 
+    Lab manager 
+  description: and research associate
   social:
 
 - name: Nora Heaphy
