@@ -96,6 +96,12 @@ people:
     - title: github
       url: https://github.com/noraheaphy
 
+- name: Anthony Sarkiss
+  pic: anthony_s
+  position: undergrad
+  description: Viburnum ecophysiology; adaptive radiation; biogeography
+  social:
+
 - name: Lucy
   pic: lucy_moss
   position: Research Assistant
