@@ -15,7 +15,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Erika Edwards
+- name: Erika Edwards (she/her)
   pic: e_s
   position: Principal Investigator
   description: My CV is available <a href="/reprints/edwardsCVaug2020.pdf">here</a>.
@@ -44,18 +44,13 @@ people:
     - title: google
       url: https://scholar.google.com/citations?hl=en&authuser=1&user=6ch-jEIAAAAJ
     
-- name: Anthony Baniaga
-  pic: anthony
-  position: Donnelly Postdoc Fellow
-  description: polyploid ecophysiology; hybridization; plant genomics; Viburnum; Selaginellaceae 
+- name: Shawn Abrahams (they/them)
+  pic: shawn
+  position: NSF Plant Genome Postdoc Fellow
+  description: genomic comparison, phylogenomics, metabolic trait evolution, and systems biology
   social:
-
-
-- name: Morgan Moeglein
-  pic: Morgan1
-  position: Graduate Student
-  description: Genetic basis of ecologically relevant traits; leaf shape evolution in Viburnum. 
-  social:
+    - title: twitter
+      url: https://twitter.com/Young_Eukaryote
 
 - name: Ian Gilman
   pic: ian
@@ -79,6 +74,17 @@ people:
   description: ecophysiology; evolution of plant tissues and traits; urban adaptation
   social:
 
+ - name: Oluwatobi Oso
+  pic: oluwatobi
+  position: Graduate Student
+  description: Plant anatomy, evolution and development; digital morphometrics and systematics
+  social:
+     - title: twitter
+      url: https://twitter.com/OSO_Tee
+     - title: google
+      url:  https://scholar.google.com/citations?hl=en&user=b3Ct6aAAAAAJ
+
+
 - name: Kirstin Dion
   pic: kirstin
   position: 
@@ -88,7 +94,7 @@ people:
 
 - name: Nora Heaphy
   pic: nora
-  position: undergrad
+  position: post-bac research associate
   description: climate niche evolution; species distribution models; Portullugo
   social:
     - title: twitter
@@ -96,11 +102,6 @@ people:
     - title: github
       url: https://github.com/noraheaphy
 
-- name: Anthony Sarkiss
-  pic: anthony_s
-  position: undergrad
-  description: Viburnum ecophysiology; adaptive radiation; biogeography
-  social:
 
 - name: Lucy
   pic: lucy_moss
