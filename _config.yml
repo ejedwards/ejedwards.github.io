@@ -35,14 +35,6 @@ people:
   social:
     - title: google
       url: https://scholar.google.com/citations?user=TmTdiZQAAAAJ&hl=en
-
-- name: Haoran Zhou
-  pic: haoran
-  position: NOAA Climate and Global Change Postdoc Fellow
-  description: evolution of C3,C4,CAM photosynthesis; physiological and anatomical modeling
-  social:
-    - title: google
-      url: https://scholar.google.com/citations?hl=en&authuser=1&user=6ch-jEIAAAAJ
     
 - name: Shawn Abrahams (they/them)
   pic: shawn
