@@ -21,8 +21,9 @@ body
     color: var(--special-text);
     /*text-shadow: -1px 0 var(--special-text-outline), 0 1px var(--special-text-outline), 1px 0 var(--special-text-outline), 0 -1px var(--special-text-outline);*/
     font-size: 300%;
-    position: relative;
+    position: absolute;
     text-align: center;
+    left: 3rem;
 }
 
 h1
@@ -302,7 +303,7 @@ a:hover::before {
 {
     position: absolute;
     right: 0;
-    margin: 1rem;
+    margin: 4vh;
 }
 
 .btncontainer button
@@ -311,8 +312,8 @@ a:hover::before {
     border-width: 0px;
     border-color: var(--special-text-outline);
     border-style: solid;
-    font-size: 1.1rem;
-    padding: 1rem;
+    font-size: 100%;
+    padding: 1vh;
     border-radius: 0.5rem;
 }
 
