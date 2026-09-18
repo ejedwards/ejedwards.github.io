@@ -20,7 +20,6 @@ function resizeIframe(obj) {
 
 document.addEventListener('DOMContentLoaded', function() {
   const buttons = document.querySelectorAll('.scroll-btn');
-  const headerHeight = document.querySelector('.header').offsetHeight; // Assuming your header has a tag name of 'header'
 
   buttons.forEach(button => {
       button.addEventListener('click', function() {
@@ -28,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const targetDivs = document.querySelectorAll(`.${targetClass}`);
 
           if (targetDivs.length > 0) {
+              const headerHeight = document.querySelector('.header').offsetHeight; // measured on each click so zooming doesn't throw it off
               const targetPosition = targetDivs[0].offsetTop - headerHeight;
               window.scrollTo({
                   top: targetPosition,

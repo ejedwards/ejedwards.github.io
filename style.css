@@ -28,10 +28,7 @@ body
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
     font-family: Fraunces, Georgia, serif;
     /*text-shadow: -1px 0 var(--special-text-outline), 0 1px var(--special-text-outline), 1px 0 var(--special-text-outline), 0 -1px var(--special-text-outline);*/
-    font-size: 300%;
-    position: absolute;
-    text-align: center;
-    left: 3rem;
+    font-size: 2.5rem;
 }
 
 h1
@@ -71,11 +68,14 @@ h3
     align-items: center;
     background-color: #00000000;
     transition: background-color 0.25s ease;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    box-sizing: border-box;
     width: 100%;
-    height: 10%;
     margin: 0;
     border: 0;
-    padding: 0;
+    padding: 0.75rem 2rem;
     z-index: 99;
 }
 
@@ -111,7 +111,10 @@ h3
     justify-content: center;
     align-items: center;
     font-weight: bolder;
-    font-size: 500%;
+    font-size: clamp(2.5rem, 7vw, 5rem);
+    line-height: 1.1;
+    padding: 0 1rem;
+    box-sizing: border-box;
     color: white;
     text-shadow: -1px 0 #b8b8b8, 0 1px #b8b8b8, 1px 0 #b8b8b8, 0 -1px #b8b8b8;
 }
@@ -122,7 +125,7 @@ h3
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
     gap: 2rem;
-    width: 60%;
+    width: min(60rem, 90%);
     margin: 0 auto;
 }
 
@@ -171,6 +174,7 @@ h3
 .image img {
     position: relative;
     width: 15rem;
+    max-width: 100%;
     height: auto;
     border-radius: 50%;
     border-width: 3px;
@@ -206,18 +210,20 @@ h3
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: min(60rem, 90%);
 }
 
 .peopleMatrix
 {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    max-width: 64rem;
+    margin: 0 auto;
     justify-items: center;
     align-content: center;
     justify-content: center;
     align-items: center;
-    grid-gap: 6rem;
+    grid-gap: 3rem;
     padding: 3rem;
 }
 
@@ -237,6 +243,9 @@ h3
 
 .person img
 {
+    width: 12.5rem;
+    height: 12.5rem;
+    object-fit: cover;
     border-radius: 50%;
     border-width: 3px;
     border-color: var(--accent);
@@ -257,7 +266,62 @@ h3
 .publications
 {
     text-align: left;
-    margin: 0 20%;
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem;
+}
+
+.intro
+{
+    max-width: 46rem;
+    margin: 0 auto 3rem;
+    padding: 0 1.5rem;
+    line-height: 1.6;
+}
+
+.intro-lead
+{
+    text-align: center;
+    font-style: italic;
+}
+
+/* Narrow windows and zoomed-in text: stack About into one column */
+@media (max-width: 50rem)
+{
+    .roadmap
+    {
+        grid-template-columns: 1fr;
+    }
+
+    .line
+    {
+        display: none;
+    }
+
+    .row
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 3rem;
+    }
+
+    .row .image
+    {
+        order: 1;
+    }
+
+    .row:nth-child(odd) .text,
+    .row:nth-child(even) .text
+    {
+        grid-column: 1;
+        text-align: center;
+    }
+
+    .title
+    {
+        font-size: 1.8rem;
+    }
 }
 
 a {
@@ -293,9 +357,9 @@ a:hover::before {
 
 .btncontainer
 {
-    position: absolute;
-    right: 0;
-    margin: 4vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
 }
 
 .btncontainer button
@@ -305,8 +369,8 @@ a:hover::before {
     border-width: 0px;
     border-color: var(--special-text-outline);
     border-style: solid;
-    font-size: 100%;
-    padding: 1vh;
+    font-size: 1rem;
+    padding: 0.5rem 0.8rem;
     border-radius: 0.5rem;
 }
 
