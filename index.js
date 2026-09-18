@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $(window).scroll(function(){
       if ($(this).scrollTop() > 0) { // Change this value to the amount of scroll you want
-        $('.header').css('background-color', 'rgba(0, 0, 0, 0.85)'); // Change this to the color you want
+        $('.header').css('background-color', 'rgba(40, 71, 42, 0.96)'); // Change this to the color you want
       } else {
         $('.header').css('background-color', 'transparent');
       }
